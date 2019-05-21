@@ -6,8 +6,10 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: `/gatsbymetwordpress`,
   siteMetadata: {
     title: `Title from siteMetadata`,
+    siteUrl: `https://rawaldeep.github.io/gatsbymetwordpress/`
   },
   plugins: [
     `gatsby-plugin-emotion`,
