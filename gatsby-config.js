@@ -73,7 +73,6 @@ module.exports = {
         verboseOutput: false,
         perPage: 100,
       },
-      concurrentRequests: 10,
     },
     'gatsby-plugin-sitemap',
   ],
