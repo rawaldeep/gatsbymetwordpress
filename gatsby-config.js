@@ -42,6 +42,7 @@ module.exports = {
     },
       `gatsby-transformer-sharp`,
       `gatsby-plugin-sharp`,
+      'gatsby-plugin-netlify',
     {
       resolve: `gatsby-source-wordpress`,
       options: {

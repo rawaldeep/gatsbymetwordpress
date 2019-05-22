@@ -1,0 +1,99 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.a82bc48cfa31deea5b5f.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-b76dfad3fcff2976e17c.js
+  Cache-Control: public, max-age=31536000, immutable
+/1-5b98a05e9467b86ad306.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-js-9985740ed9ac927b464b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-2c4ee378d1f479eabd79.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-posts-js-fed9bca3b200a5d2bda9.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-js-08369b88c7c62dc5cc64.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-about-js-42985d1306dfae3ccac0.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-posts-index-js-538e12c02c0f1d02e24e.js
+  Cache-Control: public, max-age=31536000, immutable
+/pages-manifest-f147e8d401b327b4f16a.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-40125ec930d84b1ba18f.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-c66e192d6b50b3cd69e6.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/sample-page/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-templates-page-js-9985740ed9ac927b464b.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-2c4ee378d1f479eabd79.js>; rel=preload; as=script
+/2
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </component---src-templates-posts-js-fed9bca3b200a5d2bda9.js>; rel=preload; as=script
+/post/dolores-et-provident-itaque/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-08369b88c7c62dc5cc64.js>; rel=preload; as=script
+/post/et-sequi-commodi-consequatur/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-08369b88c7c62dc5cc64.js>; rel=preload; as=script
+/post/esse-doloribus-quasi-vel/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-08369b88c7c62dc5cc64.js>; rel=preload; as=script
+/post/hello-world/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-08369b88c7c62dc5cc64.js>; rel=preload; as=script
+/post/unde-sunt-facilis-nobis-et/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-08369b88c7c62dc5cc64.js>; rel=preload; as=script
+/post/laudantium-omnis-consequuntur-corporis/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-08369b88c7c62dc5cc64.js>; rel=preload; as=script
+/about/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-pages-about-js-42985d1306dfae3ccac0.js>; rel=preload; as=script
+/posts/
+  Link: </webpack-runtime-40125ec930d84b1ba18f.js>; rel=preload; as=script
+  Link: </app-c66e192d6b50b3cd69e6.js>; rel=preload; as=script
+  Link: </styles-b76dfad3fcff2976e17c.js>; rel=preload; as=script
+  Link: </1-5b98a05e9467b86ad306.js>; rel=preload; as=script
+  Link: </component---src-pages-posts-index-js-538e12c02c0f1d02e24e.js>; rel=preload; as=script
